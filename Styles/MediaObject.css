@@ -1,0 +1,19 @@
+.media {
+    display: flex;
+    align-items: flex-start;
+    background: #e3d2a1;
+    /* border: 5px solid red; */
+    padding: 1em;
+    border-radius: 3px;
+    max-width: 50em;
+    max-height: 50em;
+  }
+  .media-object {
+    margin-right: 1em;
+  }
+  .media-body {
+    flex: 1;
+  }
+  .media-heading {
+    margin: 0 0 .5em;
+  }
